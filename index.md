@@ -1,4 +1,4 @@
-<--! <!DOCTYPE html> -->
+<!-- <--! <!DOCTYPE html> --> -->
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
@@ -95,7 +95,7 @@
         <td>Swift</td>
         <td>⭐ ⭐ ⭐ ⭐ ⭐</td>
         <td>HTML,CSS & JavaScript.</td>
-        <td>⭐ Working on it</td>
+        <td>⭐ ⭐ ⭐ ⭐ getting better</td>
       </tr>
     </table>
     <hr>
